@@ -1,4 +1,5 @@
 # Eyesy
+
 Smart hat to help visually impaired people navigate their path.
 
 Project winner of the first edition of Makeathon inter ODC Clubs organized jointly by Orange Tunisie and GIZ Tunisie.
@@ -13,12 +14,13 @@ Using machine learning, the card informs the visually impaired user if there are
 #Edgecomputing #Artificiaintelligence #iotdata #winners #edgeai #edgecloud #ai #iot
 
 # Conception
+
 ![Pitch - Orange Makeathon](https://user-images.githubusercontent.com/55398565/175769482-fb650272-9e0b-4c80-9c2b-ec6fb72589da.jpg)
 
-
 # Final Product
-![215d4c87-8113-4042-9b02-691f747f9dc4](https://user-images.githubusercontent.com/55398565/175769492-95f0d812-53ab-4f61-ba00-6a457c8d592d.jpg)
- 
-# Illustrating video
-https://user-images.githubusercontent.com/55398565/175769603-db36ca88-dadc-4fe7-9938-da70ff43c6d5.mp4
 
+![215d4c87-8113-4042-9b02-691f747f9dc4](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.15752-9/265395411_963104267626107_1577984601289219873_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=CKjuGQIwNVkAX8DO8b1&_nc_ht=scontent-cdg2-1.xx&oh=03_AdQ6zkcjwcHmP7cByP_OLL8PQAAls1ipn3L2n1DjnJldrA&oe=639B055A)
+
+# Illustrating video
+
+https://user-images.githubusercontent.com/55398565/175769603-db36ca88-dadc-4fe7-9938-da70ff43c6d5.mp4
